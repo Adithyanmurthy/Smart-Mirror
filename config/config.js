@@ -158,7 +158,7 @@ let config = {
 					{ name: "Bitcoin", symbol: "BTC-EUR" }
 				]
 			}
-		}*/
+		},
 		{
 			module: "MMM-SoccerLiveScore",
 			position: "top_right", // This can be any of the regions.
