@@ -1,0 +1,47 @@
+.workout-wrapper {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  color: white;
+  text-align: center;
+}
+
+.video-container {
+  margin: 10px 0;
+  background-color: black;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.workout-video {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.stats-row {
+  display: flex;
+  justify-content: space-around;
+  margin: 10px 0;
+}
+
+.stat-box {
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 10px;
+  border-radius: 5px;
+  min-width: 100px;
+}
+
+.feedback-list {
+  text-align: left;
+  list-style-type: none;
+  padding: 0;
+  margin: 10px 0;
+}
+
+.feedback-list li {
+  margin: 5px 0;
+  padding: 5px;
+  background-color: rgba(255, 0, 0, 0.2);
+  border-left: 3px solid red;
+}

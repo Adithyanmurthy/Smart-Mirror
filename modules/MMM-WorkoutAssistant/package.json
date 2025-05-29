@@ -1,0 +1,20 @@
+{
+  "name": "mmm-workoutassistant",
+  "version": "1.0.0",
+  "description": "Magic Mirror module for workout assistance with pose detection",
+  "main": "MMM-WorkoutAssistant.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "magic mirror",
+    "module",
+    "workout",
+    "fitness"
+  ],
+  "author": "Bhumika",
+  "license": "MIT",
+  "dependencies": {
+    "python-shell": "^3.0.1"
+  }
+}
