@@ -12,6 +12,7 @@
 	"license": "MIT",
 	"dependencies": {
 		"@fontsource/roboto": "^5.2.5",
-		"@fontsource/roboto-condensed": "^5.2.5"
+		"@fontsource/roboto-condensed": "^5.2.5",
+		"typeface-roboto-condensed": "^1.1.13"
 	}
 }
